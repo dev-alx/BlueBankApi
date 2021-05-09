@@ -1,0 +1,8 @@
+2021-05-07T17:43:58.6701646-06:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-05-07T17:43:58.7009496-06:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-05-07T17:43:58.7036666-06:00  [INF] Content root path: "C:\Users\Lenovo\source\repos\netcore\Contact\Contact.Api" (b5d60022)
+2021-05-07T17:44:46.8628120-06:00 80000041-0002-f600-b63f-84710c7967bb [WRN] User password validation failed: "PasswordRequiresNonAlphanumeric". (95aa5396)
+2021-05-07T17:45:25.4468171-06:00 8000006d-0003-fc00-b63f-84710c7967bb [WRN] User password validation failed: "PasswordRequiresNonAlphanumeric". (95aa5396)
+2021-05-07T17:51:35.7312390-06:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-05-07T17:51:35.7991812-06:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-05-07T17:51:35.8044416-06:00  [INF] Content root path: "C:\Users\Lenovo\source\repos\netcore\Contact\Contact.Api" (b5d60022)
